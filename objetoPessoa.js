@@ -3,7 +3,7 @@
 pessoa={
 nome:'Ana',
 idade:20,
-ocupação:'Estudante'
+ocupação:'Estudante',
 naturalidade:'paranaense'
  
 }
